@@ -83,11 +83,17 @@ Kami dengan tegas menyatakan bahwa kami TIDAK mengumpulkan:
 - Perubahan signifikan akan diumumkan melalui pembaruan aplikasi
 - Pengguna akan diberitahu sebelum ada perubahan yang mempengaruhi privasi
 
-## 9. Kontak
+## 9. Kontak dan Informasi Lebih Lanjut
 
 Jika Anda memiliki pertanyaan mengenai kebijakan privasi atau ingin memastikan komitmen kami terhadap privasi Anda, hubungi kami di:
 - Email: dev@naandalist.com
-- Website: www.naandalist.com
+- Website: [www.naandalist.com](https://www.naandalist.com)
+- GitHub: [GitHub Repository](https://github.com)
+
+Untuk informasi lebih lanjut tentang privasi data dan perlindungan data pribadi, Anda dapat mengunjungi:
+- [GDPR Official Website](https://gdpr-info.eu/)
+- [Privacy International](https://privacyinternational.org/)
+- [Electronic Frontier Foundation](https://www.eff.org/issues/privacy)
 
 Kami siap memberikan klarifikasi mengenai komitmen kami untuk tidak mengumpulkan data pribadi Anda.
 
