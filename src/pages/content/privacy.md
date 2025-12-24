@@ -87,8 +87,7 @@ Kami dengan tegas menyatakan bahwa kami TIDAK mengumpulkan:
 
 Jika Anda memiliki pertanyaan mengenai kebijakan privasi atau ingin memastikan komitmen kami terhadap privasi Anda, hubungi kami di:
 - Email: dev@naandalist.com
-- Website: [www.naandalist.com](https://naandalist.com)
-- GitHub: [GitHub Repository](https://github.com)
+- Website: [naandalist.com](https://naandalist.com)
 
 Untuk informasi lebih lanjut tentang privasi data dan perlindungan data pribadi, Anda dapat mengunjungi:
 - [GDPR Official Website](https://gdpr-info.eu/)

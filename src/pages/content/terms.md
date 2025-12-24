@@ -92,6 +92,10 @@ Syarat dan ketentuan ini tunduk pada hukum Republik Indonesia.
 
 Jika Anda memiliki pertanyaan mengenai syarat dan ketentuan ini, silakan hubungi kami melalui email atau media sosial resmi aplikasi.
 
+- Email: dev@naandalist.com
+- Website: [naandalist.com](https://naandalist.com)
+
+
 ---
 
-*Terakhir diperbarui: Juli 2025*
+*Terakhir diperbarui: Juli 2025
