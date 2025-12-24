@@ -1,5 +1,7 @@
 # Kebijakan Privasi
 
+> **Navigasi:** [Beranda](/) | [Syarat & Ketentuan](/terms)
+
 ## 1. Pendahuluan
 
 Kebijakan privasi ini menjelaskan bagaimana kami menangani informasi dalam aplikasi Kuiskuensi. Kami berkomitmen untuk melindungi privasi Anda dengan tidak mengumpulkan data pribadi apapun.
@@ -88,6 +90,8 @@ Kami dengan tegas menyatakan bahwa kami TIDAK mengumpulkan:
 Jika Anda memiliki pertanyaan mengenai kebijakan privasi atau ingin memastikan komitmen kami terhadap privasi Anda, hubungi kami di:
 - Email: dev@naandalist.com
 - Website: [naandalist.com](https://naandalist.com)
+
+Untuk informasi mengenai syarat penggunaan, silakan baca [Syarat & Ketentuan](/terms) kami.
 
 Untuk informasi lebih lanjut tentang privasi data dan perlindungan data pribadi, Anda dapat mengunjungi:
 - [GDPR Official Website](https://gdpr-info.eu/)

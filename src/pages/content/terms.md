@@ -1,5 +1,7 @@
 # Terms of Service
 
+> **Navigasi:** [Beranda](/) | [Kebijakan Privasi](/privacy)
+
 ## 1. Penerimaan Syarat
 
 Dengan menggunakan aplikasi Kuiskuensi, Anda menyetujui untuk terikat oleh syarat dan ketentuan ini. Jika Anda tidak setuju dengan syarat ini, mohon untuk tidak menggunakan aplikasi ini.
@@ -34,6 +36,8 @@ Semua konten dalam aplikasi, termasuk teks, gambar, dan algoritma, adalah milik 
 Jawaban dan data yang Anda berikan akan digunakan untuk memberikan analisis personal dan tidak akan dibagikan kepada pihak ketiga tanpa persetujuan Anda.
 
 ## 5. Privasi dan Keamanan Data
+
+Untuk informasi lengkap mengenai bagaimana kami menangani data Anda, silakan baca [Kebijakan Privasi](/privacy) kami.
 
 ### 5.1 Pengumpulan Data
 Kami mengumpulkan data minimal yang diperlukan untuk memberikan layanan, termasuk jawaban kuis dan preferensi pengguna.
