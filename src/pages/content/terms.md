@@ -1,6 +1,6 @@
 # Terms of Service
 
-> **Navigasi:** [Beranda](/) | [Kebijakan Privasi](/privacy)
+ **Navigasi:** [Beranda](/) | [Kebijakan Privasi](/privacy)
 
 ## 1. Penerimaan Syarat
 

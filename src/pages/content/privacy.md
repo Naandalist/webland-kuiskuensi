@@ -1,6 +1,6 @@
 # Kebijakan Privasi
 
-> **Navigasi:** [Beranda](/) | [Syarat & Ketentuan](/terms)
+**Navigasi:** [Beranda](/) | [Syarat & Ketentuan](/terms)
 
 ## 1. Pendahuluan
 
