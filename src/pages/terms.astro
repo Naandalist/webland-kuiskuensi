@@ -17,7 +17,7 @@ const mode = url.searchParams.get('mode');
 const isLightMode = mode === 'light';
 ---
 
-<Layout title={`${title} · Terms of Service`} description={`Terms of Service for ${title} application - Rules and guidelines for using our service`} theme={isLightMode ? 'light' : 'dark'}>
+<Layout title={`${title} · Terms of Service`} description={`Terms of Service for ${title} application - Rules and guidelines for using our service`} theme={isLightMode ? 'light' : 'dark'} robots="noindex, nofollow">
   <main class="min-h-screen max-w-3xl mx-auto px-4 py-8">
     <Breadcrumbs 
       items={[{ label: "Terms of Service" }]}

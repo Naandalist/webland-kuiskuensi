@@ -21,7 +21,7 @@ const mode = url.searchParams.get('mode');
 const isLightMode = mode === 'light';
 ---
 
-<Layout title={`${title} · Privacy Policy`} description={`Privacy Policy for ${title} application - How we handle and protect your data`} theme={isLightMode ? 'light' : 'dark'}>
+<Layout title={`${title} · Privacy Policy`} description={`Privacy Policy for ${title} application - How we handle and protect your data`} theme={isLightMode ? 'light' : 'dark'} robots="noindex, nofollow">
   <main class="min-h-screen max-w-3xl mx-auto px-4 py-8">
     <Breadcrumbs 
       items={[{ label: "Privacy Policy" }]}

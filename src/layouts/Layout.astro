@@ -6,10 +6,11 @@ export interface Props {
 	description?: string;
 	showFooter?: boolean;
 	theme?: 'light' | 'dark';
+	robots?: string;
 }
 
 const { title, description } = Astro.props;
-const { showFooter = true, theme = 'dark' } = Astro.props;
+const { showFooter = true, theme = 'dark', robots = "index, follow" } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -22,7 +23,8 @@ const { showFooter = true, theme = 'dark' } = Astro.props;
     <!-- SEO Meta Tags -->
     <meta name="keywords" content="parenting islami, pendidikan anak islam, kuis parenting, aplikasi parenting, mendidik anak muslim, akhlak anak, adab islami, pola asuh islam, konsekuensi parenting, keputusan bijak parenting" />
     <meta name="author" content="Naandalist" />
-    <meta name="robots" content="index, follow" />
+    <meta name="robots" content={robots} />
+    <meta name="googlebot" content={robots} />
     <meta name="language" content="Indonesian" />
     <meta name="revisit-after" content="7 days" />
     <meta name="rating" content="general" />
